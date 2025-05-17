@@ -67,9 +67,6 @@ portfolio/
 ## Contact
 
 - Email: shaikmohammadsuhail37@gmail.com
-- Phone: +91 7995102501
-- LinkedIn: [Your LinkedIn Profile]
-- GitHub: [Your GitHub Profile]
 
 ## License
 
